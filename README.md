@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coursera/Johns Hopkins 
 # Getting and Cleaning Data
 # Final Project ReadMe
@@ -31,3 +32,7 @@ It will produce a new tidy dataset in a file called "tidydata.txt" in the workin
 
 Original data source:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+=======
+# gettingandcleaningdata
+repo for Johns Hopkins Getting and Cleaning Data course on Coursera
+>>>>>>> 2219cdda8002dfc203c31a8196465eadc17665c1
